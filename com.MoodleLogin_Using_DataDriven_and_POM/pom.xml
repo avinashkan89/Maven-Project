@@ -7,7 +7,7 @@
   <description>Moodle_Functionality</description>
   
   <properties>
-<suiteXmlFile>C:\Apps\Eclipse projects-Maven\com.MoodleLogin_Using_DataDriven_and_POM\VerifyMoodleLogin.xml</suiteXmlFile>
+<suiteXmlFile>C:\Users\ab66949\Maven-Project\com.MoodleLogin_Using_DataDriven_and_POM\VerifyMoodleLogin.xml</suiteXmlFile>
 </properties>
 
 
